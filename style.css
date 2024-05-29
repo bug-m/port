@@ -1,0 +1,58 @@
+body{
+    max-width:960px;
+    margin: auto;
+    padding: 10px;
+}
+header{
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+ header img {
+    width: 64px;
+    vertical-align: middle;
+ }
+ header span {
+    color: #31A974;
+ }
+ h1{
+    text-align: center;
+ }
+ hr{
+    background-color: #31A974;
+    height: 2px;
+    width: 100px;
+    margin-bottom: 20px;
+ }
+ .author{
+    background-color: #ccc;
+    text-align: right;
+    padding: 5px;
+ }
+ p{
+    text-align: justify;
+ }
+
+ .comments{
+    background-color: #eee;
+    padding: 10px;
+ }
+ .comment{
+    background-color: #fff;
+    padding: 5px;
+    margin-bottom: 10px;
+ }
+ .comment_header{
+    border-bottom: 1px solid #ccc;
+ }
+ .comment_header img{
+    width: 50px;
+    vertical-align: middle;
+    border-radius: 15px;
+    margin: 3px;
+ }
+ .comment_header span{
+    color : #80A8D6;
+ }
+ .comment_body{
+    color: #ccc;
+ }
